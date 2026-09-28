@@ -1,0 +1,7 @@
+---
+# Default state for all rules
+default: true
+
+line-length: false  # Disable line-length checking
+no-inline-html:
+  allowed_elements: [img]  # Allow embedded image tags as there is no way to resize images in native markdown
