@@ -11,6 +11,7 @@ Guide edited by Fudd
 _Last updated for code revision: 2026.10.01_
 
 [**Overview**](#heading--overview)
+
 [**Skill Shots and Drop Targets**](#heading--skill)
 
 [**Navigating the Mansion**](#heading--mainplay)
@@ -44,6 +45,7 @@ _Last updated for code revision: 2026.10.01_
 - [Spirit Reckoning](#heading--spirit-reckoning)
 
 [**Seance Multiball**](#heading--mb-seance)
+
 [**Wheelbarrow Ghost Multiball and Hurry-Up**](#heading--mb-wheelbarrow)
 
 [**Thirteens:**](#heading--thirteens)
@@ -67,7 +69,9 @@ _Last updated for code revision: 2026.10.01_
  - [Stair Madness](#heading--mini)
 
 [**Mementos**](#heading--mementos)
+
 [**Mystery Awards**](#heading--mystery)
+
 [**Spirit Board/Oracle**](#heading--oracle)
 
 [**Acknowledgements**](#heading--acks)
