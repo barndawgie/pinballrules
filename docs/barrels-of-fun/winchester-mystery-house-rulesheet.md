@@ -7,6 +7,7 @@ opdb_id: "GvBzO"
 # Winchester Mystery House
 
 Guide edited by Fudd
+
 _Last updated for code revision: 2026.10.01_
 
 [**Overview**](#heading--overview)
