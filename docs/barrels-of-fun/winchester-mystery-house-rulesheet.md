@@ -6,7 +6,8 @@ opdb_id: "GvBzO"
 
 # Winchester Mystery House
 
-_Last updated for code revision: 2026.08.20_
+Guide edited by Fudd
+_Last updated for code revision: 2026.10.01_
 
 [**Overview**](#heading--overview)
 [**Skill Shots and Drop Targets**](#heading--skill)
@@ -32,8 +33,8 @@ _Last updated for code revision: 2026.08.20_
 - [Hall of Fires / Ashes in the Walls](#heading--room-fires)
 - [South Conservatory / The Watching Glass](#heading--room-south)
 - [North Conservatory / What Lies Beneath](#heading--room-north)
-- Callroom /
-- Witch’s Cap /
+- [Callroom / The Unfinished Request](#heading--room-callroom)
+- [Witch’s Cap / Circle of Echoes](#heading--room-cap)
 
 [**Angry Spirits**](#heading--angry)
 
@@ -124,7 +125,7 @@ Draining during travel will start your next ball at the Outside the Door phase a
 
 ### Outside the Door {#heading--modes}
 
-Once the timer ends, you will be outside the door to the room and can begin your mode by hitting any lit “Advance Tour” shot. Alternatively, you can move to another room by using a key and “skipping” past the room you are outside. This will put you back in the Travel phase and will keep you shot value as it was, allowing you to continue building shot value. You can choose what room you will travel to (if an assortment of unplayed, adjoining rooms exist) by hitting the left ramp before consuming a key.
+Once the timer ends, you will be outside the door to the room and can begin your mode by hitting any lit “Advance Tour” shot. Alternatively, you can move to another room by using a key and “skipping” past the room you are outside. This will put you back in the Travel phase and will keep you shot value as it was, allowing you to continue building shot value. You can choose what room you will travel to (if an assortment of unplayed, adjoining rooms exist) by hitting the flippers before consuming a key. The room to be travelled to will be lit white on the inserts as well as being displayed on the display.
 
 Hitting a lit Advance Tour shot advances you to the mode associated with that room, listed in the rooms section below.
 
@@ -142,25 +143,31 @@ Before we begin, a quick note about the Help target, located above the right inl
 
 You can continue to hit shots while the spirit is en route! It will only spot a shot once it gets to the room you are in.
 
-Successful completion of the requirements of the room/mode will light a Memento at the captive ball (the captive ball will be lit cyan/teal). Modes currently award a specific memento that can only be earned from that completion. There are additional mementos that can be awarded from other accomplishments. [Click here to jump to the mementos section for full details.](#heading--mementos)
+Successful completion of the requirements of the room/mode will light a Memento at the captive ball (the captive ball will be lit cyan). Modes currently award a specific memento that can only be earned from that completion. There are additional mementos that can be awarded from other accomplishments. [Click here to jump to the mementos section for full details.](#heading--mementos)
 
 ### Foyer: {#heading--room-foyer}
 
 Nothing happens here… or does it?
 
-### Twin Dining Room (The Mirror Banquet) Red {#heading--room-twin}
+### Twin Dining Room (The Mirror Banquet) {#heading--room-twin}
+Room color: Red
+Memento: The Mirrored Teaspoon -- Fill Spirit Energy Meter (one time)
 
 A faceless spirit is trapped on one side of the two identical dining rooms in the mansion. You must help them “break free” by hitting teal/cyan shots, starting up the middle of the hallways and moving throughout. As of current code, the shots seem to appear in the same sequence each time this is played. You complete the mode by following the shots available.
 
 The mode is timed, and time can be added via Mystery award, which boosts 15 seconds on to the timer displayed at the top of the screen and on the spirit board apron.
 
-### Kitchen (The Hungering Flame) Blue {#heading--room-kitchen}
+### Kitchen (The Hungering Flame) {#heading--room-kitchen}
+Room color: Dark Blue
+Memento: Matchbox -- Light Extra Ball (one time)
 
 You have to ~~light the candles~~ douse the stove, but in order to do you need to distract Agnes’ spirit. This mode is a two ball multiball that is untimed, but will end when you drain down to one ball. Hit the red shot (hall front facing scoop) to distract Agnes and have her investigate the spirit screen. While she is distracted, cyan shots will light around the playfield to progress the mode. Hitting a cyan shot will unlight it, but you can relight all shots by hitting the red scoop at the center hall again.
 
 Hit enough shots (6) to escape through the seance room. Park both balls in the Seance Room and to start Seance Multiball at the end of the mode!
 
-### Venetian Dining Room (The Flickering Flame) Yellow {#heading--room-venetian}
+### Venetian Dining Room (The Flickering Flame) {#heading--room-venetian}
+Room color: Yellow
+Memento: Snuffer Bell -- +3 to all Thirteen tasks (one time)
 
 *NOW* it’s time to light the candles. This mode is timed, and additional time may be awarded via mystery. The spirit box shows 6 candles plus a lit center match, and shots are indicated around the playfield either flickering as blue flames or red ones.
 
@@ -168,7 +175,9 @@ You must hit flickering blue shots to keep the central match lit, and then use t
 
 This mode has an end-of-mode-bonus doubler available to you at the start: hitting the upper blue shot in the early seconds of the mode will double the completion bonus, should you successfully complete the mode.
 
-### Basement (Whispers in the Dark) Green {#heading--room-basement}
+### Basement (Whispers in the Dark) {#heading--room-basement}
+Room color: Dark Green
+Memento: Boiler Gauge Dial -- Spirit Energy Jackpot Collect Timer +13 seconds (permanent)
 
 The lights are out in the basement, just some fuses to fix, no big deal… oh right, there’s also an angry spirit chasing you out of the basement to deal with. This mode starts with a bit of a tutorial on how the mode will play out. When you hear the screeching sound and see the angry spirit on the spirit screen, you have to hold the action button down as the lighting on the rails climbs towards the spirt and commences in a flash. That will give you enough time to hit red flashing shots that only reveal themselves during the heartbeat sound.
 
@@ -179,12 +188,16 @@ You’re never safe in this mode, as the spirit will return and force you to put
 Comboing shots in between flashes will increase them in value, whereas shots hit after a flash will reduce the scoring value.
 
 ### Seance Room (The Thirteenth Toll) {#heading--room-seance}
+Room color: Light Green
+Memento: Spirit Board -- Spirit Spinner Timer & Stair Madness Timer +13 seconds (permanent)
 
 Who doesn’t like to tour the mansion? This mode starts in the seance room and takes you through a few other rooms only to return back to the other entrance of the seance room. You must complete lit shots while the bells toll, and make it back to the room before the 13th toll rings, and the spirits are released.
 
 There’s no explicit timer displayed, but the top of the screen indicates how many bells have been tolled already. If you don’t hit all shots before the 13th, the mode will end.
 
-### The Daisy Bedroom (Lullaby of the Hollow Eyes) Purple {#heading--room-daisy}
+### The Daisy Bedroom (Lullaby of the Hollow Eyes) {#heading--room-daisy}
+Room color: Lilac Purple
+Memento: Porcelain Locket -- +5m base mode value (permanent)
 
 Who doesn’t like a creepy doll motif? The Daisy Bedroom is the home to Maribel's spirit and her ever-staring dolls. Hit the left ramp to display an item in the spirit display belonging to one of Maribel's dolls, and a hurry-up will be lit on a shot that corresponds to the doll matching the item. Hit the hurry-up shot to progress the mode.
 
@@ -193,6 +206,8 @@ Maribel won’t wait forever though - you need to hit the matching shot quickly,
 Successfully hit four hurry-ups to complete the mode and appease Maribel. Miss four hurry-ups and the mode will end.
 
 ### The Daisy Bedroom (The Shattered Threshold) {#heading--room-daisy2}
+Room color: Lilac Purple
+Memento: Music Box -- +5x to Bonus Multiplier (permanent)
 
 *In order to play this mode, visit the Daisy Bedroom after completing Echoes*
 
@@ -205,6 +220,8 @@ Start by hitting the white shot lit at the spinner, followed by hitting any othe
 While the Echoes mini wizard mode takes place in the Grand Ballroom, there are no specific modes to the Grand Ballroom that the player can start.
 
 ### Sarah’s Bedroom (The Possession) {#heading--room-sarah}
+Room color: Cyan
+Memento: House Key Charm -- +5 Keys
 
 Sarah's here and she's.. not herself. 
 
@@ -212,9 +229,12 @@ The instrument targets are lit blue, and that's your first order of business. Th
 
 The help target is unique here - hitting the help target in the standup phase will spot you one target. Hitting the help target in the drops phase will complete all of the drops for that phase. Use the help wisely!
 
-If you're having trouble hitting a lit standup, the hidden bass and treble targets will spot a shot, at a lesser value than your current room value.
+If you're having trouble hitting a lit standup, the hidden bass and treble targets will spot a target shot, at a lesser value than your current room value.
 
 ### Hall of Fires (Ashes in the Walls) {#heading--room-fires}
+Room color: Orange
+Memento: Smoldering Hearthstone -- 3x Spirit Spinner Value (permanent)
+
 Surely one of the most cozy rooms in the house, the Hall of Fires has 4 different fireplaces. It also houses Cinderman -- a spirit who will keep the flames lit while you try to put them out.
 
 This mode will have 4 shots indicated by red triangles where the fires are. Before you can put them out, you need to collect water at the spinner (lit blue). Once you have water,  the 4 shots (left ramp, inner upper loop, center hall, and right orbit) will lit in an orange fire pattern. Hit one shot, and after a short delay, Cinderman will start walking toward it to relight it on the spirit display! You must extinguish the 4 shots before Cinderman relights them. Should you not make it in time, the fire will relight and you'll need more water. If there's another fire lit, Cinderman will move to that one next. You can complete the mode when all 4 fires are out.
@@ -222,6 +242,8 @@ This mode will have 4 shots indicated by red triangles where the fires are. Befo
 Should Cinderman relight 6 fires total, you will exit the mode in a failed state.
 
 ### South Conservatory (The Watching Glass) {#heading--room-south}
+Room color: Pink/Fuscia
+Memento: More Help in Skeleton Key (to be implemented)
 
 The South Conservatory has beautiful windows and skylights, which don't make for a great room when you need to hide - which is what you'll have to do. The spirit, Elias, is in the room and seems to be looking for something. You need to hide and not disturb him and escape without drawing his attention.
 
@@ -232,6 +254,8 @@ Hitting enought targets, or a shot where Elias is, will start a countdown. You'l
 Hit enough good shots to escape the room.
 
 ### North Conservatory (What Lies Beneath) {#heading--room-north}
+Room color: Canary Yellow
+Memento: +2 to next Stair Madness multiplier
 
 There's rumbling in the floorboards in the North Conservatory, and creating enough sigils will help to keep the angry spirits from crossing through! 
 
@@ -239,13 +263,23 @@ In this mode, one shot will be lit at any time. Hitting this shot will give mode
 
 The mode will successfully end when 3 sigils have been created: The first requires two shots, the next 3 shots, and the final 4 shots. Finishing these quickly will convert the remaining time in the mode into additional points for completion.
 
-### Callroom ()
+### Callroom (The Unfinished Request) (#heading--room-callroom)
+Room color: Aquamarine/Cyan
+Memento: Grand Wake qualified during Tour the Mansion (to be implemented)
 
-*This is not implemented in the current version of the code*
+The bells on the annunciator are ringing, but they haven't rang out from Sarah's Bedroom in some time -- perhaps it's coming from another dimension? Only one way to find out.
 
-### Witch’s Cap ()
+Hit cyan shots to advance the mode and make your way to the request. Entering some rooms will have angry spirits in the room -- you need to avoid them by hitting the cyan shots before the timer expires, or banish them by hitting the red shots before time expires. The mode successfully ends when you return to the callroom after making it to Sarah's Bedroom.
 
-*This is not implemented in the current version of the code*
+### Witch’s Cap (Circle of Echoes) (#heading--room-cap)
+Room color: Blue
+Memento: 2x Spirit Energy Jackpot collects (permanent)
+
+The Witch's Cap can be disorienting, as sounds are reflected all around you. What are you looking for? Where are you going?
+
+You must hit the spinner to charge up the oracle on the spirit board to spell out your shot (for example, "LEFT LOOP"). Each spin builds progress to the ghost screen spelling out the shot you need. Alternatively, once you start to get some letters, you can try taking a guess where you need to shoot - potential shots are lit cyan and hitting the correct one does progress the mode.
+
+Spell and hit 3 shots to complete this phase. Next, you will need to knock down the three inline targets. Finally, three shots will light with different 
 
 ## Angry Spirits {#heading--mb-seance}
 Not all of the spirits at the Winchester Mystery House are benign... some are not pleased with your presence and will make themselves known.
@@ -288,6 +322,8 @@ On default settings, if Seance Multiball hasn’t been played by the start of ba
 ### Scoring:
 
 Jackpots are collected at blue shots. After collecting enough jackpots(?), hit the red lit captive ball to add a red arrow shot with a super jackpot at the right ramp, behind the fallen tower.
+
+Collecting 13 jackpots will light a mega super jackpot at the spinner for 13 seconds. 
 
 Add-a-ball is available at the Help target.
 
@@ -447,7 +483,11 @@ Mementos can be tied to completion of rooms, or wild card (randomly awarded). Th
 - South Conservatory 
     - Perk: More Help in Skeleton Key (to be implemented)
 - North Conservatory
-    - Perk: +5 to next Stair Madness multiplier
+    - Perk: +2 to next Stair Madness multiplier
+- Callroom
+    - Perk: Grand Wake qualified during Tour the Mansion (to be implemented)
+- Witches' Cap
+    - Perk: 2x Spirit Energy Jackpot collects (permanent)
  
 
 Wildcard Mementos:
