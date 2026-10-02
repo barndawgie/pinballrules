@@ -61,7 +61,7 @@ _Last updated for code revision: 2026.10.01_
 
 [**Playfield Multipliers**](#heading--multipliers)
 - [Filling the Spirit Meter](#p-99988-filling-the-spirit-meter-10)
-- [Start the Muiltiplier](#p-99988-start-the-multiplier-11)
+- [Start the Multiplier](#p-99988-start-the-multiplier-11)
 - [Collect Points](#p-99988-collect-points-12)
 
 [**Mini-Modes**](#heading--mini)
@@ -91,7 +91,7 @@ Mechanical Engineering: Paul Sulisz & Luke Underwood
 
 ## Skill Shots and Drop Targets {#heading--skill}
 
-Welcome to the Winchester Mystery House! Your first order of business is to plunge into a set of drops and hopefully collect a skill shot. 
+Welcome to the Winchester Mystery House! Your first order of business is to plunge into a set of drops and hopefully collect a skill shot.
 
 The three bank of drops angled up through the center of the playfield are ordered (from top to bottom):
 
@@ -106,7 +106,7 @@ The skill shot will shine one of these drop targets lit at a time, followed by a
 - Advance (all) 13ths +3
 - (all lit) Some score value (on default code on current settings, 1.3m)
 
-After the skill shot, the drops will strobe while all up through the three lights. Hitting a drop will lock in the award shown for a period of time, which will be given should the entire 3 bank drop. 
+After the skill shot, the drops will strobe while all up through the three lights. Hitting a drop will lock in the award shown for a period of time, which will be given should the entire 3 bank drop.
 
 There is a second 3-bank of drops in the upper left of the playfield that will award Keys upon completion. Keys allow you to unlock rooms, or to skip past rooms to continue building shot value. A player can only hold up to 3 keys at a time, and their current inventory is displayed at the bottom center of the screen.
 
@@ -124,7 +124,7 @@ Selecting a room is accomplished by hitting any shot with a lit “Advance Tour�
 
 ### Traveling to the Room {#heading--travel}
 
-Once you select a room to travel to by hitting a lit shot, you will begin travel to that room. There will be a timer at the center top of the screen indicating how many seconds it will take to travel to that room, as well as a room shot value on the bottom left of the display. By hitting shots, drop banks, spinners, and targets lit dim white during this phase, you will build the shot value for the mode you will be playing. Comboing shots (white shots that are flashing after hitting any lit shot) will increasingly add more value to the next mode as more combos are completed. Additionally, Mystery may award +2 million (or more! see Mystery Awards) room value as an award. 
+Once you select a room to travel to by hitting a lit shot, you will begin travel to that room. There will be a timer at the center top of the screen indicating how many seconds it will take to travel to that room, as well as a room shot value on the bottom left of the display. By hitting shots, drop banks, spinners, and targets lit dim white during this phase, you will build the shot value for the mode you will be playing. Comboing shots (white shots that are flashing after hitting any lit shot) will increasingly add more value to the next mode as more combos are completed. Additionally, Mystery may award +2 million (or more! see Mystery Awards) room value as an award.
 
 Draining during travel will start your next ball at the Outside the Door phase and with half of the shot value you earned the previous ball.
 
@@ -144,7 +144,7 @@ The game begins with Run ready (status will be shown in the upper right of the s
 
 ## Rooms (and their modes): {#heading--roomindex}
 
-Before we begin, a quick note about the Help target, located above the right inlane. Once per mode, you may hit the Help target during play, and a helpful spirit will be dispatched to the house to help you in the mode. You will see the spirit on the map traveling to the room you are in (on a dark blue path). Once the spirit gets to your room, it will spot a shot in the mode. 
+Before we begin, a quick note about the Help target, located above the right inlane. Once per mode, you may hit the Help target during play, and a helpful spirit will be dispatched to the house to help you in the mode. You will see the spirit on the map traveling to the room you are in (on a dark blue path). Once the spirit gets to your room, it will spot a shot in the mode.
 
 You can continue to hit shots while the spirit is en route! It will only spot a shot once it gets to the room you are in.
 
@@ -188,7 +188,7 @@ The lights are out in the basement, just some fuses to fix, no big deal… oh ri
 
 Once enough shots have been hit, you will reach the fusebox in the basement, where subsequent red shots will begin restoring the lights in the playfield.
 
-You’re never safe in this mode, as the spirit will return and force you to put a hand on the action button to dispel it for a period of time. Failing to hit the action button, or hold it long enough to produce a flash, will chase you out of the basement with the mode incomplete. 
+You’re never safe in this mode, as the spirit will return and force you to put a hand on the action button to dispel it for a period of time. Failing to hit the action button, or hold it long enough to produce a flash, will chase you out of the basement with the mode incomplete.
 
 Comboing shots in between flashes will increase them in value, whereas shots hit after a flash will reduce the scoring value.
 
@@ -228,7 +228,7 @@ While the Echoes mini wizard mode takes place in the Grand Ballroom, there are n
 Room color: Cyan
 Memento: House Key Charm -- +5 Keys
 
-Sarah's here and she's.. not herself. 
+Sarah's here and she's.. not herself.
 
 The instrument targets are lit blue, and that's your first order of business. This mode is not timed, so be sure to play controlled. Hit one instrument target that's lit, and the inline drops will light. Hit one inline, then the sequence repeats: 2 targets, 2 drops. Then hit the remaining two lit targets and three drops to open the secret passage. Hit behind the inline drops to light the final shot up the middle to separate Sarah from her invader.
 
@@ -254,7 +254,7 @@ The South Conservatory has beautiful windows and skylights, which don't make for
 
 This is a mode with "good" and "bad" shots. Good shots, indicated by cyan arrows, will let Elias progress through the room without your noticing him. Elias is indicated by Orange shots, which move with his progress through the room. Hitting targets will take away some of the good shots, but hitting a good shot will put them back in play.
 
-Hitting enought targets, or a shot where Elias is, will start a countdown. You'll hear Elias coming and he'll count down as the right ramp flashes. You must hit the right ramp before the timer ends or the mode will fail!
+Hitting enough targets, or a shot where Elias is, will start a countdown. You'll hear Elias coming and he'll count down as the right ramp flashes. You must hit the right ramp before the timer ends or the mode will fail!
 
 Hit enough good shots to escape the room.
 
@@ -262,7 +262,7 @@ Hit enough good shots to escape the room.
 Room color: Canary Yellow
 Memento: +2 to next Stair Madness multiplier
 
-There's rumbling in the floorboards in the North Conservatory, and creating enough sigils will help to keep the angry spirits from crossing through! 
+There's rumbling in the floorboards in the North Conservatory, and creating enough sigils will help to keep the angry spirits from crossing through!
 
 In this mode, one shot will be lit at any time. Hitting this shot will give mode value as well as progress through the current displayed sigil on the ghost box monitor. Additionally, targets near the spinner may light to provide progress on shots, though they will give a reduced value but progress nonetheless.
 
@@ -292,7 +292,7 @@ Not all of the spirits at the Winchester Mystery House are benign... some are no
 Failing any mode by either timing out of the mode or draining out of it will release an angry spirit into the house. You will be able to see how many spirits are in the house by looking at the playfield lights on the map and counting the number of red dots roaming the halls between the rooms. You will encounter the unhappy spirits in three main ways: Battles, Ambushes, and Reckonings
 
 ### Spirit Battle {#heading--spirit-battle}
-Spirit Battles happen when you encounter an angry spirit that you've released into the house from failing a mode. This will happen in the middle of travel between rooms. You will know you are battling when the music changes, the spirit appears in the hall on the monitor, and a shot lights red. 
+Spirit Battles happen when you encounter an angry spirit that you've released into the house from failing a mode. This will happen in the middle of travel between rooms. You will know you are battling when the music changes, the spirit appears in the hall on the monitor, and a shot lights red.
 
 You will have a short period of time to expel the spirit and win the battle. Should you hit the red shot in time, your next mode shot value will increase by 5 million. Should you not successfully expel the spirit, you will instead lose up to 5 million in mode value (not going below the base mode value you have).
 
@@ -305,7 +305,7 @@ You will be attacked in an untimed battle against 3 spirits. As the ball is retu
 
 Ambush ends after expelling the 3 spirits or draining out of the ambush. Successfully completing the ambush awards a [**Wildcard Memento**](#heading--mementos).
 
-In multiplayer games, all players will enounter Ambush at the same number of travels on the map, unless the Ambush cannot start (for example, while playing a 13ths mode). A reckoning will also cancel out the next time a player would be ambushed.
+In multiplayer games, all players will encounter Ambush at the same number of travels on the map, unless the Ambush cannot start (for example, while playing a 13ths mode). A reckoning will also cancel out the next time a player would be ambushed.
 
 You can [**Run**](#heading--running) from a Spirit Ambush, which will remove you from being trapped, but will be unable to earn points or collect the [**Wildcard Memento**](#heading--mementos) from completing the Ambush.
 
@@ -1178,13 +1178,13 @@ Add-a-ball is available at the Help target.
 
 ## Wheelbarrow Ghost Multiball and Hurry-Up {#heading--mb-wheelbarrow}
 
-It’s time for a trip to the basement, to help Clyde with the boiler. 
+It’s time for a trip to the basement, to help Clyde with the boiler.
 
 Start by lighting all O-P-E-N inlanes, which will put a pulsing Cyan shot on the left and right ramps. Hitting the ramps will spin the turntable to set you up for a shot at the Stairs to Nowhere and start the timer for a Wheelbarrow hurry-up. Hit the cyan shot on the turntable (middle hall if the left ramp was hit, left hall from the upper left flipper if the right ramp was hit) to take a trip up the stairs and into the basement. Hitting the shot will award you the hurry up value remaining and grant one lock towards Wheelbarrow Ghost Multiball (on default settings: your first ball locked in a game will start the multiball. Subsequent hurry ups will require 3 completions and hurry ups to start another multiball)
 
 ### Multiball
 
-Once multiball starts, you are trying to manage the pressure of the boiler while keeping angry spirits away from your efforts. Shoot the spinner loop to increase your jackpot value and lower the pressure, and hit red shots to banish angry spirts. You must survive a countdown (shown on the gauge and on the spirit board) to earn a jackpot based on the shots you’ve hit and the current boiler pressure (lower is better). After a jackpot is awarded, hit the front hall scoop to relight the spinner and carry on. 
+Once multiball starts, you are trying to manage the pressure of the boiler while keeping angry spirits away from your efforts. Shoot the spinner loop to increase your jackpot value and lower the pressure, and hit red shots to banish angry spirts. You must survive a countdown (shown on the gauge and on the spirit board) to earn a jackpot based on the shots you’ve hit and the current boiler pressure (lower is better). After a jackpot is awarded, hit the front hall scoop to relight the spinner and carry on.
 
 If too many angry spirits make their way to the basement, they will raise the boiler pressure, preventing you from collecting jackpots! So you need to hit red arrows as they appear and walk to the basement to keep scoring, and then lower the pressure at the spinner.
 
@@ -1208,7 +1208,7 @@ Mode: Summon the Mortals
 
 Awarded by collecting mystery awards by hitting the inner or right orbit when the spider web insert is lit.
 
-Mode: Spider Web Frenzy 
+Mode: Spider Web Frenzy
 
 Shoot halls to web
 
@@ -1271,7 +1271,7 @@ Playfield Multipliers are one of the more unique aspects of Winchester Mystery H
 
 ### Filling the Spirit meter
 
-The spirit meter can be filled primarily by hitting the spinner during play when the spinner is lit/flashing. To light the spinner, hit any ramp. 
+The spirit meter can be filled primarily by hitting the spinner during play when the spinner is lit/flashing. To light the spinner, hit any ramp.
 
 Alternatively, the meter can be filled by Mystery Award, completely filled by a skill shot, or augmented by a memento. Once over half of the spirit meter is full, you may start your playfield multiplier.
 
@@ -1329,7 +1329,7 @@ Mementos can be tied to completion of rooms, or wild card (randomly awarded). Th
     - Perk: +5 keys
 - Hall of Fires - Smoldering Hearthstone
     - Perk: 3x Spirit Spinner Value (permanent)
-- South Conservatory 
+- South Conservatory
     - Perk: More Help in Skeleton Key (to be implemented)
 - North Conservatory
     - Perk: +2 to next Stair Madness multiplier

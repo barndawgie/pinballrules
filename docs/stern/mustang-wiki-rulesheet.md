@@ -30,7 +30,7 @@ Police Pursuit:  A shoutout to high speed.  6 shots will be lit, 3 on each side.
 
 Stunt Driver:  Somewhat timed mode.  If you hit shots in order it can be completed quickly, otherwise you'll have to use multiple takes to complete mode (update coming)
 1.gears target
-2.left ramp 
+2.left ramp
 3.left ramp or right orbit
 4.right orbit/captive ball/right standup to complete
 
@@ -38,13 +38,13 @@ Drag Race:  Hit standup targets 5 times to advance to gear 6 and start drag race
 
 Rally Race:  Make a left side shot to the  ramp or N2O standup, make a right side shot to orbit  or standup, then another right side shot to the standup or captive ball.  The shortcut is then lit at left ramp, if you miss this, it’ll force you to hit the captive ball to continue...after you hit the captive ball, it’s just two more left ramp shots and then the far left N2O boost to complete.  If you make the shortcut shot, you’ll just have to hit two more left ramps and then a hard left at the N2O boost to complete.
 
-**Gear Shift Multiball:**  Game should start you out at first gear.  Complete a set of drop targets to advace to the next gear.  To advance to gear 5, you need to complete all drop targets and then must shoot one of the two standups behind the drop targets within 5 seconds.  To advance to gear 6, you need to complete all drop targets and then shoot one of the two standups within 5 seconds, and then shoot the other standup target within another 5 seconds.
+**Gear Shift Multiball:**  Game should start you out at first gear.  Complete a set of drop targets to advance to the next gear.  To advance to gear 5, you need to complete all drop targets and then must shoot one of the two standups behind the drop targets within 5 seconds.  To advance to gear 6, you need to complete all drop targets and then shoot one of the two standups within 5 seconds, and then shoot the other standup target within another 5 seconds.
 
 Once a specific gear's multiball has been played, it cannot be played again.  If you start multiball in third gear, you will have to advance to 4, 5 or 6 for the next multiball.  If your first multiball is in gear 6, you will have to advance to 3,4, or 5 for the next multiball.
 
 Super Jackpot:  The first super jackpot is lit either by hitting any of the drop targets, or mini-jackpot shots.  There is a generous timer for the first super jackpot, so now is a good time to check to see if N20 is ready for double scoring.  SJP base value is the sum of the gears that you're in (Example: Gear 4 SJP = 10M = 1+2+3+4).  Gear 6 first SJP has an increased value of 50M base as an award for advancing to the highest gear level; after the first Gear 6 SJP, the value reverts back to 21M (1+2+3+4+5+6).  You relight SJP after a certain # of jackpots from drops or orbit shots/captive ball hits.
 
-**Burnout Multiball:**  An homage to the creature from the black lagoon multiball, this multiball is qualified by hitting four shots on the captive ball.  "qualify burnout" can also be a mystery ford award after completing one of the top three modes.  
+**Burnout Multiball:**  An homage to the creature from the black lagoon multiball, this multiball is qualified by hitting four shots on the captive ball.  "qualify burnout" can also be a mystery ford award after completing one of the top three modes.
 3 jackpots at beginning are all 200k:  Left ramp, captive ball, and right orbit.  One of these shots will light the main jackpot (find the girl) at the captive ball for 10 million, and the left ramp will also be lit for a higher scoring option.  The left ramp diverts to the cup to spell out BURNOUT.  One each letter of burnout has been collected, the left ramp will divert to the left flipper for a chance at the combo jackpot at the captive ball worth 20 million. After a certain number of pop bumper hits, the same sequence of 'finding the girl' will start again, with the only difference being the combo jackpot will go up to 40 million, and add another 20 million after every pop bumper relight.  The regular jackpot at the captive ball increases by 5 million after each pop bumper relight: 10, 15, 20...etc.
 Modes can be brought into burnout multiball.
 

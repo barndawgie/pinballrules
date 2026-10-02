@@ -60,7 +60,7 @@ Throughout the game, the player is encouraged to shoot certain areas of the play
 
 **White Arrows & Shot Multipliers:**
 
-At any time during play, six major shots (both orbits, the three ramps, and Doc Ock) will have their white spider arrows lit. Shooting any shot with a white arrow scores 150k + 12.5k per shot, with the last of the six shots being worth 350k. After shooting all the white arrows, all of the arrows will begin strobing; the next shot made will award a 2x multiplier for all values until the ball ends (which can be increased to a 3x multiplier if the ensuing timed mode is completed). 
+At any time during play, six major shots (both orbits, the three ramps, and Doc Ock) will have their white spider arrows lit. Shooting any shot with a white arrow scores 150k + 12.5k per shot, with the last of the six shots being worth 350k. After shooting all the white arrows, all of the arrows will begin strobing; the next shot made will award a 2x multiplier for all values until the ball ends (which can be increased to a 3x multiplier if the ensuing timed mode is completed).
 
 **Timed Modes:**
 
@@ -74,13 +74,13 @@ The other benefit of completing sets of white arrows is that they will light bot
 
 **Black Suit Multiball:**
 The traditional multiball in the game.
-Virtually lock three balls by hitting the Lite Lock target (# of hits varies based on difficulty settings and how many BSMB you've already played that game) until locks are lit at the orbits. Shoot either green-lit orbit three times to immediately begin BSMB. 
+Virtually lock three balls by hitting the Lite Lock target (# of hits varies based on difficulty settings and how many BSMB you've already played that game) until locks are lit at the orbits. Shoot either green-lit orbit three times to immediately begin BSMB.
 
 Two jackpots are lit at each major shot. Jackpot value starts at 250K at the beginning of ball 1, and increases throughout the entire game by 500 points per pop hit, up to a max of ??? 750K?  After shooting all 12 jackpots, there are 2 sets of Super Jackpot pairs lit at the left ramp and the side ramp. The left ramp SJP are each worth 4x the jackpot value, and the side ramp SJP are each worth 8x the jackpot value. After completing all 4 SJP, you begin the regular jackpot sequence again.
 
 *Stacking*
-- You can bring a mode into BSMB by starting the mode before or concurrently with your 3rd lock shot. 
-- You can stack BSMB with a Doc Ock MB, in either order, and make progress toward either multiball during the other. 
+- You can bring a mode into BSMB by starting the mode before or concurrently with your 3rd lock shot.
+- You can stack BSMB with a Doc Ock MB, in either order, and make progress toward either multiball during the other.
 - You can qualify, make progress, and complete any of the other non-Doc Ock Battles during BSMB.
 - BSMB does not stack with Battle Royale.
 
@@ -92,7 +92,7 @@ Notably, Spider Sense can award an Add-A-Ball during multi-ball modes, once per 
 
 This means you need to complete the Spider Sense targets at least once during a multi-ball to earn Add-A-Ball from Spider Sense, and sometimes multiple times. For example, if you start Green Goblin, and then Doc Ock multi-ball, completing the Spider Sense targets once will light it for a Green Goblin award, and completing a second time before collecting will light it for a Doc Ock Award + Add-A-Ball.
 
-It’s possible to earn two separate Add-A-Balls if you’ve stacked Doc Ock and Black Suit mutli-balls.
+It’s possible to earn two separate Add-A-Balls if you’ve stacked Doc Ock and Black Suit multi-balls.
 
 Collecting the Spider Sense award for a timed mode will add more time to the mode. For most modes, earning points in a mode while Spider Sense is lit for that award will add value to the award.
 
